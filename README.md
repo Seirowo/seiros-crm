@@ -73,7 +73,7 @@ Follow these steps to set up and run the project locally:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Indi-Technology/project-test.git](https://github.com/Indi-Technology/project-test.git)
+    git clone (https://github.com/Seirowo/seiros-mini-crm.git)
     cd project-test
     ```
 
