@@ -104,7 +104,3 @@ Follow these steps to set up and run the project locally:
     The application will be running at `http://127.0.0.1:8000`.
 
 ---
-
-## 📄 License
-
-This project is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
