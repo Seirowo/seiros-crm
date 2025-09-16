@@ -58,9 +58,8 @@ This project applied the following techniques and standards:
 
 ## 🚀 Advanced Features 
 
--   **Email Notification:** Send an email whenever a new company is created (using Mailgun or another service).
 -   **Multi-Role Access:** Implement different user roles (e.g., admin and company users who can only manage their own employees).
--   **Basic Testing:** Add basic tests using Pest or PHPUnit.
+-   **Basic Testing:** Add basic tests using Pest.
 -   **Image Crop:** Basic Image cropping for the company's logo.
 -   **Activity Logs:** Basic Logs for Recent Activity in the App.
 -   **Custom Frontend Theme:** Use a custom front-end theme like "TailwindCSS."
