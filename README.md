@@ -73,8 +73,8 @@ Follow these steps to set up and run the project locally:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/Seirowo/seiros-mini-crm.git
-    cd project-test
+    git clone https://github.com/Seirowo/seiros-crm.git
+    cd seiros-crm
     ```
 
 2.  **Install PHP Dependencies:**
